@@ -1,5 +1,3 @@
-Sure! Here are the answers to the questions in markdown format:
-
 1. **Can you explain the concept of feature extraction in convolutional neural networks (CNNs)?**
 
 Feature extraction in CNNs refers to the process of automatically learning and extracting relevant features from input images. This is achieved through the use of convolutional layers, which apply filters to the input image, capturing different patterns and features such as edges, textures, and shapes. These learned features are then passed through activation functions and pooling layers to reduce dimensionality and preserve important information. Feature extraction allows CNNs to effectively represent and understand the underlying patterns in images, enabling tasks such as object recognition, segmentation, and classification.
